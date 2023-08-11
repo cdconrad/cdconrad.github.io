@@ -18,7 +18,8 @@
 }
 
 .mainbody-2a {
-	background-color: #9CC4E4;
+	/*background-color: #9CC4E4;*/
+	background-color: #3A89C9;
 	padding-top: 128px;
 	padding-left: 24px;
 	padding-right: 24px;
@@ -26,7 +27,8 @@
 }
 
 .mainbody-2b {
-	background-color: #3A89C9;
+	/*background-color: #3A89C9;*/
+	background-color: #1B325F;
 	padding-top: 128px;
 	padding-bottom: 128px;
 	padding-left: 24px;
@@ -34,7 +36,8 @@
 }
 
 .mainbody-2c {
-	background-color: #1B325F;
+	/*background-color: #1B325F;*/
+	background-color: #3A89C9;
 	padding-top: 128px;
 	padding-bottom: 128px;
 	padding-left: 24px;
@@ -52,6 +55,12 @@
 	background-color: #E9F2F9;
 }
 
+.mainbody-4 {
+	padding-top: 128px;
+	padding-bottom: 128px;
+	background-color: #9CC4E4;
+}
+
 .membercolumn {
 	padding-top: 48px;
 	padding-bottom: 48px;
@@ -65,5 +74,19 @@
 .mainbody-4 {
 	padding-top: 128px;
 	padding-bottom: 128px;
-	background-color: #F26C4F;
+	background-color: #9CC4E4;
+	/*background-color: #F26C4F;*/
+}
+
+.profile {
+	max-width: 175px;
+	border-radius: 50%;
+	height: auto;
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+.logo {
+	max-width: 300px;
+	height: auto;
 }
