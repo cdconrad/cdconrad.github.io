@@ -4,8 +4,8 @@
 .mainbody-1 {
 	padding-top: 128;
 	padding-bottom: 128;
-	padding-left: 76px;
-	padding-right: 76px;
+	padding-left: 32px;
+	padding-right: 32px;
 	background-color: #E9F2F9
 }
 
@@ -55,6 +55,11 @@
 .membercolumn {
 	padding-top: 48px;
 	padding-bottom: 48px;
+}
+
+.bodyhr {
+	max-width: 60%;
+	width: 60:%;
 }
 
 .mainbody-4 {
