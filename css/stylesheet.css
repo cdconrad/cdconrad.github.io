@@ -6,7 +6,8 @@
 	padding-bottom: 128;
 	padding-left: 32px;
 	padding-right: 32px;
-	background-color: #E9F2F9
+	background-color: #E9F2F9;
+	font-size: 24px;
 }
 
 .mainbody-1 h1 {
@@ -58,13 +59,17 @@
 .mainbody-4 {
 	padding-top: 128px;
 	padding-bottom: 128px;
-	background-color: #9CC4E4;
+	background-color: #3A89C9;
+	font-size: 24px;
+	color: white;
+	/*background-color: #F26C4F;*/
 }
 
 .mainbody-5 {
 	padding-top: 32px;
-	padding-bottom: 32px;
-	/*background-color: #E9F2F9;*/
+	padding-bottom: 12px;
+	background-color: #1B325F;
+	color:white;
 }
 
 .membercolumn {
@@ -75,14 +80,6 @@
 .bodyhr {
 	max-width: 60%;
 	width: 60:%;
-}
-
-.mainbody-4 {
-	padding-top: 128px;
-	padding-bottom: 128px;
-	background-color: #3A89C9;
-	color: white;
-	/*background-color: #F26C4F;*/
 }
 
 .profile {
@@ -100,7 +97,7 @@
 }
 
 .logo {
-	max-width: 300px;
+	max-width: 200px;
 	height: auto;
 }
 
